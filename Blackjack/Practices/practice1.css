@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#apple-shelf{
+    background-color: orange;
+    width: 300px;
+    height: 48px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+#orange-shelf{
+    background-color: crimson;
+    width: 300px;
+    height: 48px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+}

@@ -1,0 +1,74 @@
+#container {
+    width: 350px;
+    height: 340px;
+    background-color: #2cba54;
+    box-shadow: 8px 12px rgb(240, 240, 240) ;
+    border: none;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 7rem auto 0px;
+    padding: 1.5rem;
+    text-align: center; 
+}
+
+span {
+    display: inline-block;
+    font-size: 21px;
+    margin-bottom: 2rem;
+    margin: 20px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+#num1 {
+    width: 20px;
+    border-bottom: 3px solid black;
+    padding-bottom: 4px;
+    margin-left: 5.5rem;
+}
+
+#num2 {
+    width: 20px;
+    border-bottom: 3px solid black;
+    padding-bottom: 4px;
+}
+
+#sum {
+    /* width: 50px; */
+    border-bottom: 3px solid black;
+    margin-left: 5.5rem;
+}
+
+button {
+    background-color: white;
+    color: #2cba54;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    height: 2.5rem;
+    margin-right: 2px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+ 
+#btn-container {
+    width: 19rem;
+}
+
+#add-btn {
+    width: 4rem;
+}
+
+#subtract-btn {
+    width: 6.5rem;
+}
+
+#divide-btn {
+    width: 5rem;
+}
+
+#multiply-btn {
+    width: 5.5rem;
+    margin-right: 20px;
+}
